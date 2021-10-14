@@ -1,0 +1,16 @@
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.csproj.AssemblyReference.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.AssemblyInfoInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.AssemblyInfo.cs
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\bin\Debug\net5.0\Academia.exe
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\bin\Debug\net5.0\Academia.deps.json
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\bin\Debug\net5.0\Academia.runtimeconfig.json
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\bin\Debug\net5.0\Academia.runtimeconfig.dev.json
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\bin\Debug\net5.0\Academia.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\bin\Debug\net5.0\ref\Academia.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\bin\Debug\net5.0\Academia.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\ref\Academia.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\AULASPOO\Academia\obj\Debug\net5.0\Academia.genruntimeconfig.cache
